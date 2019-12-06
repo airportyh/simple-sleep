@@ -1,0 +1,16 @@
+{
+  "name": "simple-sleep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sleep.js",
+  "types": "sleep.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
